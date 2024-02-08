@@ -154,9 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+Johnson Ikechukwu - [Github](https://github.com/Johnnie-kay) / [Twitter](https://twitter.com/Kay@redifined)
 
-Second part of Airbnb: Joann Vuong
+Second part of Airbnb: Johnson Ikechukwu
 ## License
 Public Domain. No copy write protection. 
